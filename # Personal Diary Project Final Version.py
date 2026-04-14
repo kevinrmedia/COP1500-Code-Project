@@ -252,4 +252,4 @@ if __name__ == "__main__":
 # Choose an option: 7
 
 # Output:
-# Exiting diary... Goodb
+# Exiting diary... Goodbye!
