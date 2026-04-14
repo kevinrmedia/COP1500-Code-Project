@@ -2,9 +2,9 @@
 
 # ----------- EXAMPLE 1: WRITING AN ENTRY ---------------------
 
-# Input:
+# Input: 
 # Choose an option: 1
-# Enter your diary entry: Today I finished my Python project
+# Enter your diary entry: Testing my diary program
 
 # Output:
 # Entry saved successfully!
@@ -16,20 +16,17 @@
 # Choose an option: 2
 
 # Output:
-# Entry 1
-# Date: 2026-04-10 14:30:00
-# Text: Today I finished my Python project
+# Displays saved diary entry 
 
 
 # ----------- EXAMPLE 3: SEARCHING ENTRIES --------------------
 
 # Input:
 # Choose an option: 4
-# Enter keyword: Python
+# Enter keyword: Testing 
 
 # Output:
-# Date: 2026-04-10 14:30:00
-# Text: Today I finished my Python project
+# Matching entry is displayed 
 
 
 # ----------- EXAMPLE 4: DELETING AN ENTRY --------------------
@@ -39,7 +36,7 @@
 # Enter entry number to delete: 1
 
 # Output:
-# Deleted: Today I finished my Python project
+# Deleted: Testing my diary program 
 
 
 # ----------- EXAMPLE 5: COUNTING ENTRIES ---------------------
