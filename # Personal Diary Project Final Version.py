@@ -188,42 +188,24 @@ if __name__ == "__main__":
 
 # SAMPLE INPUT AND OUTPUT DEMONSTRATIONS
 
-# Example 1:
-# Input:
-# Choose an option: 1
-# Enter your diary entry: Today I finished my Python project
-# Output:
-# Entry saved successfully!
+Example 1:
+Input: 1 → Write Entry
+User types: Testing my diary program
+Output: Entry saved successfully!
 
-# Example 2:
-# Input:
-# Choose an option: 2
-# Output:
-# Entry 1
-# Date: April 10, 2026 - 02:30 PM
-# Text: Today I finished my Python project
+Example 2:
+Input: 2 → View Entries
+Output: Displays saved diary entry
 
-# Example 3:
-# Input:
-# Choose an option: 4
-# Enter keyword: Python
-# Output:
-# Date: April 10, 2026 - 02:30 PM
-# Text: Today I finished my Python project
+Example 3:
+Input: 4 → Search
+User types: testing
+Output: Matching entry is displayed
 
-# Example 4:
-# Input:
-# Choose an option: 3
-# Enter entry number to delete: 1
-# Output:
-# Deleted: Today I finished my Python project
+Example 4:
+Input: 3 → Delete
+Output: Entry removed successfully
 
-# Example 5:
-# Input:
-# Choose an option: 7
-# Output:
-# Exiting diary... Goodbye!
-
-# ============================================================
-# END OF PROGRAM (200+ LINES)
-# ============================================================
+Example 5:
+Input: 7 → Exit
+Output: Program closes
