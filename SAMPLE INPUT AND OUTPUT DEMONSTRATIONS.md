@@ -1,4 +1,18 @@
- SAMPLE INPUT AND OUTPUT DEMONSTRATIONS
+# SAMPLE INPUT AND OUTPUT DEMONSTRATIONS
+
+# ----------- EXAMPLE 0: MAIN MENU -------------------------
+
+# Output:
+# ========== PERSONAL DIARY PROGRAM ==========
+# 1. Write an entry
+# 2. View all entries
+# 3. Delete an entry
+# 4. Search entries
+# 5. Count entries
+# 6. Clear all entries
+# 7. Exit
+# Choose an option: 
+
 
 # ----------- EXAMPLE 1: WRITING AN ENTRY ---------------------
 
@@ -16,7 +30,7 @@
 # Choose an option: 2
 
 # Output:
-# Displays saved diary entry 
+# 1. Testing my diary program
 
 
 # ----------- EXAMPLE 3: SEARCHING ENTRIES --------------------
@@ -26,7 +40,8 @@
 # Enter keyword: Testing 
 
 # Output:
-# Matching entry is displayed 
+# Search Results:
+# 1. Testing my diary program
 
 
 # ----------- EXAMPLE 4: DELETING AN ENTRY --------------------
@@ -36,7 +51,7 @@
 # Enter entry number to delete: 1
 
 # Output:
-# Deleted: Testing my diary program 
+# Deleted: Testing my diary program
 
 
 # ----------- EXAMPLE 5: COUNTING ENTRIES ---------------------
@@ -45,7 +60,7 @@
 # Choose an option: 5
 
 # Output:
-# Total entries: 1
+# Total entries: 0
 
 
 # ----------- EXAMPLE 6: CLEARING ALL ENTRIES -----------------
